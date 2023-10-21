@@ -1,3 +1,3 @@
 # perfect-hashing
 
-My coursework about perfect hashing algorithm
+My coursework about perfect hashing algorithm written in Clojure
